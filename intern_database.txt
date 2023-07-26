@@ -1,0 +1,70 @@
+POST /database 200 65.835 ms - 151
+{
+  _id: new ObjectId("64956d89a5c910f13a988121"),
+  question: 'which one is the first search engine in internet',
+  answer: 'archie',
+  __v: 0
+}
+POST /database 200 4.909 ms - 140
+{
+  _id: new ObjectId("64956dc1a5c910f13a988123"),
+  question: 'Number of bits used by ipv6 address',
+  answer: '128 bits',
+  __v: 0
+}
+POST /database 200 2.903 ms - 153
+{
+  _id: new ObjectId("64956df2a5c910f13a988125"),
+  question: 'which one is the first web browser invented in 1990',
+  answer: 'Nexus',
+  __v: 0
+}
+POST /database 200 4.325 ms - 144
+{
+  _id: new ObjectId("64956e22a5c910f13a988127"),
+  question: 'First computer virus is known as ?',
+  answer: 'Creeper Virus',
+  __v: 0
+}
+POST /database 200 3.965 ms - 139
+{
+  _id: new ObjectId("64956e3ea5c910f13a988129"),
+  question: 'Firewall in computer is used for ?',
+  answer: 'Security',
+  __v: 0
+}
+POST /database 200 2.733 ms - 148
+{
+  _id: new ObjectId("64956e67a5c910f13a98812b"),
+  question: 'Dual layer blue ray disc can store data upto ?',
+  answer: '50 GB',
+  __v: 0
+}
+POST /database 200 3.298 ms - 161
+{
+  _id: new ObjectId("64956ea2a5c910f13a98812d"),
+  question: 'Which of the follow is not a database management software ?',
+  answer: 'Cobol',
+  __v: 0
+}
+POST /database 200 2.136 ms - 146
+{
+  _id: new ObjectId("64956ec8a5c910f13a98812f"),
+  question: '1024 bits is equal to how n=many bytes ?',
+  answer: '128 bytes',
+  __v: 0
+}
+POST /database 200 4.625 ms - 160
+{
+  _id: new ObjectId("64956ef6a5c910f13a988131"),
+  question: 'Where is the headquater of microsoft office located ?',
+  answer: 'Washington',
+  __v: 0
+}
+POST /database 200 3.497 ms - 133
+{
+  _id: new ObjectId("64956f17a5c910f13a988133"),
+  question: '.GIF is the extension of ?',
+  answer: 'image file',
+  __v: 0
+}
